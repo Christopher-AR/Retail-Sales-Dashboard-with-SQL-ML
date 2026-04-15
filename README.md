@@ -102,7 +102,7 @@ This project presents an end-to-end **Retail Sales Analytics Dashboard** built u
 * **RMSE:** 308.89
 
 
-## 💡 Key Insights
+##  Key Insights
 
 * Technology category drives the highest revenue
 * Certain sub-categories generate consistent losses
@@ -127,20 +127,29 @@ This project presents an end-to-end **Retail Sales Analytics Dashboard** built u
 ## Preview Images
 
 **Home** - https://github.com/Christopher-AR/Retail-Sales-Dashboard-with-SQL-ML/blob/main/Home.png
+
 **Overview** - https://github.com/Christopher-AR/Retail-Sales-Dashboard-with-SQL-ML/blob/main/Overview.png
+
 **Sales** - https://github.com/Christopher-AR/Retail-Sales-Dashboard-with-SQL-ML/blob/main/Sales.png
+
 **Profit** - https://github.com/Christopher-AR/Retail-Sales-Dashboard-with-SQL-ML/blob/main/Profit.png
+
 **Customer** - https://github.com/Christopher-AR/Retail-Sales-Dashboard-with-SQL-ML/blob/main/Customer.png
+
 **Product** - https://github.com/Christopher-AR/Retail-Sales-Dashboard-with-SQL-ML/blob/main/Product.png
+
 **Sales Prediction Analysis** - https://github.com/Christopher-AR/Retail-Sales-Dashboard-with-SQL-ML/blob/main/Prediction.png
 
 
 ##  Contact
 
 For queries or collaboration:
+
 **Christopher A**
+
 **a9977618@gmail.com**
-**7411021906***
+
+**7411021906**
 
 Final Year CSE (Data Science) Student
 
