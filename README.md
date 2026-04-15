@@ -126,13 +126,13 @@ This project presents an end-to-end **Retail Sales Analytics Dashboard** built u
 
 ## Preview Images
 
-**Home** -
-**Overview** -
-**Sales** -
-**Profit** -
-**Customer** -
-**Product** -
-**Sales Prediction Analysis** -
+**Home** - https://github.com/Christopher-AR/Retail-Sales-Dashboard-with-SQL-ML/blob/main/Home.png
+**Overview** - https://github.com/Christopher-AR/Retail-Sales-Dashboard-with-SQL-ML/blob/main/Overview.png
+**Sales** - https://github.com/Christopher-AR/Retail-Sales-Dashboard-with-SQL-ML/blob/main/Sales.png
+**Profit** - https://github.com/Christopher-AR/Retail-Sales-Dashboard-with-SQL-ML/blob/main/Profit.png
+**Customer** - https://github.com/Christopher-AR/Retail-Sales-Dashboard-with-SQL-ML/blob/main/Customer.png
+**Product** - https://github.com/Christopher-AR/Retail-Sales-Dashboard-with-SQL-ML/blob/main/Product.png
+**Sales Prediction Analysis** - https://github.com/Christopher-AR/Retail-Sales-Dashboard-with-SQL-ML/blob/main/Prediction.png
 
 
 ##  Contact
